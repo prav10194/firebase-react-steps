@@ -15,6 +15,10 @@ npx create-react-app firebase-hosting-demo
 
 ## Setup firebase
 
+```cmd
+firebase login
+firebase init
+```
 
 
 ## Updating the app and deploying again
