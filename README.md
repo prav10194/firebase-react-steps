@@ -15,6 +15,8 @@ npx create-react-app firebase-hosting-demo
 
 ## Setup firebase
 
+<b><i>Note: Run these next steps in the react folder</b></i>
+
 ```cmd
 firebase login
 firebase init
